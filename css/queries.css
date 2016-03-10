@@ -1,0 +1,33 @@
+
+
+
+@media screen and (max-width: 1200px) {
+	.ColFooter{
+		width: 25%;
+	}
+	.tbm{
+		font-size: 12px;
+	}
+	.ancho{
+	width: 45%;
+	}
+	.nav>li>a {
+	padding: 8px 6px !important;
+	}
+	.pad-0{
+		padding: 0px !important;
+	}
+	.fs13{
+		font-size: 12px;
+	}
+
+	}
+
+@media screen and (max-width: 768px) {
+	.site{
+		font-size: 20px !important;
+	}
+	.ColFooter{
+		width: 50%;
+	}
+}
